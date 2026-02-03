@@ -38,5 +38,4 @@ The goal is simple: control the snake, eat the food, grow longer, and avoid hitt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ishan-Pareek/snakegame
-.git
+   git clone https://github.com/Ishan-Pareek/snakegame.git
